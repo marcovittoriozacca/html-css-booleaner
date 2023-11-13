@@ -61,3 +61,22 @@ figure{
 li{
     margin-left: 1em;
 }
+
+table{
+    border-collapse: collapse;
+    margin-block: 25px;
+}
+
+thead{
+    background-color: #4a9fff;
+    color: white;
+}
+
+td, th{
+    text-align: left;
+    width: calc(100% / 3);
+}
+
+tbody > tr:first-child, tbody > tr:last-child{
+    background-color: #B2E4F2;
+}
