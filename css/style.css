@@ -14,5 +14,50 @@ header{
 .logo{
     width: 300px;
     padding-top: 75px;
-    padding-left: 10px;
+    padding-left: 1em;
+}
+
+
+main{
+    margin: 0 1em;
+}
+
+h1{
+    margin-top: 15px;
+    width: 80%;
+    font-size: 3em;
+}
+
+.sub_title{
+    color: gray;
+    font-size: 1.2em;
+}
+
+.sub_title2{
+    display: block;
+    font-size: 0.8em;
+}
+
+.blue_text{
+    color: #4a9fff;
+}
+
+figure{
+    margin-top: 15px;
+}
+
+.sub_img{
+    font-size: 0.8em;
+}
+
+.tim_text{
+    margin-block:15px;
+}
+
+.marked{
+    background-color: yellow;
+}
+
+li{
+    margin-left: 1em;
 }
